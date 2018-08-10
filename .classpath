@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src.test.resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/cucumber-reporting-3.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo Nagafugi/workspace/aprendendo-cucumber/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
